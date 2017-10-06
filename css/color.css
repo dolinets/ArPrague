@@ -1,0 +1,30 @@
+
+.lawyer-color, .lawyer-colorhover:hover,.lawyer-banner-text-wrap h2 span,.lawyer-simple-services ul li:hover h4,.lawyer-classic-blog figure a i,.lawyer-classic-blog-option li a:hover,
+.lawyer-history-wrap h6 span,.widget_links ul li:hover a,.widget_populer_posts ul li:hover section h6 a,.lawyer-detail-social li:hover a,.lawyer-tags a:hover,.lawyer-prenxt-post ul li:hover .lawyer-post-arrow,
+.comment-list > li .thumb-list:hover .comment-reply-link,.widget_archive ul li:hover a,.lawyer-main-content .widget_populer_posts section time i,.lawyer-attorney-social li:hover a,.navbar-nav > li:hover > a,
+.navbar-nav > li.active > a {
+    color: #cc8800;
+}
+.lawyer-bgcolor, .lawyer-bgcolorhover:hover,.lawyer-fancy-title > span:before,.lawyer-fancy-title > span:after,.lawyer-fancy-title > span > small:before,.lawyer-fancy-title > span > small:after,
+.lawyer-services-wrap i,.lawyer-classic-blog figure a:before,.lawyer-classic-blog-text time,.lawyer-classic-blog ul li:hover .lawyer-readmore-btn,.lawyer-classic-team figure figcaption:before,
+.practices-transparent,.lawyer-accordion .panel-title a:after,.footer-widget-title h2:before,.footer-widget-title h2:after,.widget_links ul li a:before,.widget_populer_posts figure a:before,
+.widget_populer_posts section time,.lawyer-team-grid figure > a:before,blockquote span:before,blockquote span:after,blockquote span i,.lawyer-section-heading h2:before,.lawyer-section-heading h2:after,
+.lawyer-related-articles ul li:hover .lawyer-readmore-btn,.lawyer-widget-heading h2:before,.lawyer-widget-heading h2:after,.widget_archive ul li a:before,.lawyer-blog-grid figure a:before,
+.lawyer-blog-grid ul li:hover .lawyer-blog-read-btn,.lawyer-blog-grid ul li:hover .lawyer-blog-read-btn:before,.lawyer-pagination > ul > li > a:hover,.lawyer-pagination > ul > li > span.current,
+.lawyer-blog-large figure > a:before,.lawyer-blog-large ul li:hover .lawyer-blog-read-btn,.lawyer-blog-large ul li:hover .lawyer-blog-read-btn:before,.lawyer-attorney-classic figure a:before,
+.lawyer-attorney-classic ul li:hover .lawyer-blog-read-btn,.lawyer-attorney-classic ul li:hover .lawyer-blog-read-btn:before,.faq-accordion .panel-heading .panel-title > a,.lawyer-practice-grid figure a i,
+.lawyer-practice-grid ul li:hover .lawyer-blog-read-btn,.lawyer-practice-grid ul li:hover .lawyer-blog-read-btn:before,.lawyer-practice-medium figure a:before,.lawyer-practice-medium ul li:hover .lawyer-blog-read-btn,
+.lawyer-practice-medium ul li:hover .lawyer-blog-read-btn:before,.lawyer-practice-modren figure > a i,.lawyer-error-page-text,.lawyer-modern-gallery ul li figure > a:before,
+.lawyer-contact-us-form form ul li label input[type="submit"],.lawyer-search-list-left form label input[type="submit"],.navbar-nav > li > a:before,.navbar-nav > li > a:after,
+.navbar-nav > li.active > a:before,.navbar-nav > li.active > a:after {
+    background-color: #cc8800;
+}
+.lawyer-bordercolor, .lawyer-bordercolorhover:hover,.lawyer-classic-blog ul li:hover .lawyer-readmore-btn,.lawyer-related-articles ul li:hover .lawyer-readmore-btn,
+.lawyer-blog-grid ul li:hover .lawyer-blog-read-btn,.lawyer-pagination > ul > li > a:hover,.lawyer-pagination > ul > li > span.current,.lawyer-blog-large ul li:hover .lawyer-blog-read-btn,
+.lawyer-attorney-classic ul li:hover .lawyer-blog-read-btn,.lawyer-practice-medium ul li:hover .lawyer-blog-read-btn {
+    border-color: #cc8800;
+}
+/*Arslan*/
+.lawyer-banner-btn:before,.lawyer-consultation-form form ul li label:before,.widget_newsletter form ul li:last-child label:before,.comment-respond form p label:before {
+	border-top-color: #cc8800;
+}
