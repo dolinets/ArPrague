@@ -254,7 +254,7 @@ address { font-style: italic; }
 	width: 100%;
 	position: relative;
 }
-.lawyer-main-content 	{ padding: 100px 0px 60px 0px; }
+.lawyer-main-content 	{ padding: 50px 0px 60px 0px; }
 .lawyer-right-section 	{ float: right; }
 .lawyer-left-section 	{ float: left; }
 .lawyer-main-wrapper,#lawyer-header {
